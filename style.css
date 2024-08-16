@@ -629,7 +629,7 @@ nav {
 
 
 /* media query */
-@media (max-width: 1490px) {
+/* @media (max-width: 1490px) {
     .coversions {
         height: auto;
         padding-top: 50px;
@@ -644,7 +644,7 @@ nav {
         text-align: center;
     }
 
-}
+} */
 
 @media(max-width: 1190px) {
     .widget .content {
